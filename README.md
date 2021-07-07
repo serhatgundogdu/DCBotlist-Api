@@ -11,6 +11,9 @@
 const DCBotlist = require("dcbotlist.js");
 
 const dcbl = new DCBotlist("YOUR-TOKEN", client);
+
+client.on("ready", async () => {
+  dbl.serverCount();
 ```
 
 
