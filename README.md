@@ -7,7 +7,13 @@
 ## Installation
 - `npm i dcbotlist.js`
 
+```js
+const DCBotlist = require("dcbotlist.js");
+
+const dcbl = new DCBotlist("YOUR-TOKEN", client);
 ```
+
+
 
 
 
