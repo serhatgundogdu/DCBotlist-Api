@@ -1,0 +1,26 @@
+{
+  "name": "dcbotlist.js",
+  "version": "1.0.0",
+  "description": "DCBotlist Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhatgundogdu/DCBotlist-Api.git"
+  },
+  "keywords": [
+    "api",
+    "dcbotlist"
+  ],
+  "author": "Screw&SerhatG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serhatgundogdu/DCBotlist-Api/issues"
+  },
+  "homepage": "https://github.com/serhatgundogdu/DCBotlist-Api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
